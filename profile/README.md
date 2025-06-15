@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Welcome to Grupo do Bolo
-A group of students dedicated to make the life of Computer Science Students Easier.
+A group of students dedicated to make the life of Unioeste-Cvel Computer Science Students Easier.
 <!--
 
 **Here are some ideas to get you started:**
