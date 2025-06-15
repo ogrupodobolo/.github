@@ -1,14 +1,6 @@
-## Hi there 👋
+## 🎂 Grupo do Bolo
 
-Welcome to Grupo do Bolo
-A group of students dedicated to make the life of Unioeste-Cvel Computer Science Students Easier.
+Facilitando a vida de quem faz Ciência da Computação na Unioeste-Cascavel
+
+Somos um grupo de estudantes que compartilha ferramentas, códigos, dicas e materiais para tornar a jornada na Computação mais leve (e doce 🍰). Se você estuda na Unioeste-Cvel e quer entender mais, sofrer menos e colaborar mais, está no lugar certo!
 <!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
